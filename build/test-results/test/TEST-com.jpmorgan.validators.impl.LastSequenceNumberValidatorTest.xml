@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jpmorgan.validators.impl.LastSequenceNumberValidatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-03-18T05:06:15" hostname="MacBook-Pro-3.local" time="0.015">
+  <properties/>
+  <testcase name="Sequence number validator should not throw exception when its empty" classname="com.jpmorgan.validators.impl.LastSequenceNumberValidatorTest" time="0.003"/>
+  <testcase name="[1] 111, SequenceNumber for the file should be only 2 digits found ‘111’" classname="com.jpmorgan.validators.impl.LastSequenceNumberValidatorTest" time="0.002"/>
+  <testcase name="[2] 1, SequenceNumber for the file should be only 2 digits found ‘1’" classname="com.jpmorgan.validators.impl.LastSequenceNumberValidatorTest" time="0.002"/>
+  <testcase name="[3] -1, SequenceNumber for the file should be only 2 digits found ‘-1’" classname="com.jpmorgan.validators.impl.LastSequenceNumberValidatorTest" time="0.001"/>
+  <testcase name="[4] ddd, SequenceNumber for the file should be only 2 digits found ‘ddd’" classname="com.jpmorgan.validators.impl.LastSequenceNumberValidatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

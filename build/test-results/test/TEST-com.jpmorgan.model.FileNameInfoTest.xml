@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jpmorgan.model.FileNameInfoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-03-18T05:06:15" hostname="MacBook-Pro-3.local" time="0.019">
+  <properties/>
+  <testcase name="[1] Test_A_07121987.txt, Invalid File format.Expected ‘csv’ found ‘txt’" classname="com.jpmorgan.model.FileNameInfoTest" time="0.014"/>
+  <testcase name="[2] Test.txt, Test_&lt;portfoliocode&gt;_&lt;ddmmyyyy&gt;_&lt;2digit-sequencenumber&gt;.csv" classname="com.jpmorgan.model.FileNameInfoTest" time="0.0"/>
+  <testcase name="[1] Test_A_07121987.csv, Test, A, 07121987, csv" classname="com.jpmorgan.model.FileNameInfoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
